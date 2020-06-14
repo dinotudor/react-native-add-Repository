@@ -1,3 +1,3 @@
 # React Native
 
-### Conect with api and add new projects
+### Conect with rest API and add likes to projects
